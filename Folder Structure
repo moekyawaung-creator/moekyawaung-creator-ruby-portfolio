@@ -1,0 +1,8 @@
+ruby-portfolio/
+├─ app.rb
+├─ views/
+│  └─ index.erb
+├─ Gemfile
+└─ public/
+   └─ assets/
+       └─ profile.jpg
